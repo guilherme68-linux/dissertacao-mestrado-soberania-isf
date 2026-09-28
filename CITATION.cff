@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Se você utilizar estes dados, algoritmos ou modelos, por favor cite conforme abaixo."
+authors:
+  - family-names: "Oliveira"
+    given-names: "Guilherme Fontenelle Ribeiro de"
+    affiliation: "Universidade Estácio de Sá (PPGD/UNESA)"
+title: "ISF - Índice de Soberania Fática: Pipeline Computacional Jurimétrico, Matrizes AHP de Saaty e Agrupamento K-Means"
+version: 1.0.0
+date-released: 2026-09-28
+url: "https://github.com/guilherme68-linux/ISF-Soberania-Fatica"
+keywords:
+  - jurimetria
+  - ahp
+  - k-means
+  - soberania
+  - defesa nacional
+  - sisfron
+  - open science
+license: "MIT"
