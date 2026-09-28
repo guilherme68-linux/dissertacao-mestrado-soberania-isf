@@ -92,17 +92,15 @@ A pesquisa apoia-se exclusivamente em inventários periciais e relatórios de in
 ## 5. Como Citar
 
 ### Referência Bibliográfica (ABNT NBR 6023:2018)
-OLIVEIRA, Guilherme Fontenelle Ribeiro de. **ISF – Índice de Soberania Fática**: pipeline computacional jurimétrico, matrizes AHP de Saaty e agrupamento não supervisionado K-Means. Rio de Janeiro: GitHub, 2026. Disponível em: https://github.com/guilherme68-linux/ISF-Soberania-Fatica. Acesso em: 28 set. 2026.
+OLIVEIRA, Guilherme Fontenelle Ribeiro de. **ISF – Índice de Soberania Fática**: pipeline computacional jurimétrico, matrizes AHP de Saaty e agrupamento não supervisionado K-Means. Rio de Janeiro: GitHub, 2026. Disponível em: https://github.com/guilherme68-linux/dissertacao-mestrado-soberania-isf. Acesso em: 28 set. 2026.
 
-### Entrada BibTeX
-```bibtex
 @misc{oliveira2026isf,
   author       = {Oliveira, Guilherme Fontenelle Ribeiro de},
   title        = {ISF -- {\'I}ndice de Soberania F{\'a}tica: pipeline computacional jurim{\'e}trico, matrizes AHP de Saaty e agrupamento n{\~a}o supervisionado K-Means},
   year         = {2026},
   publisher    = {GitHub},
   journal      = {GitHub repository},
-  howpublished = {\url{[https://github.com/guilherme68-linux/ISF-Soberania-Fatica](https://github.com/guilherme68-linux/ISF-Soberania-Fatica)}},
+  howpublished = {\url{https://github.com/guilherme68-linux/dissertacao-mestrado-soberania-isf}},
   institution  = {Programa de P{\'o}s-Gradua{\c{c}}{\~a}o em Direito, Universidade Est{\'a}cio de S{\'a} (PPGD/UNESA)},
   address      = {Rio de Janeiro, Brasil},
   note         = {Acesso em: 28 set. 2026}
