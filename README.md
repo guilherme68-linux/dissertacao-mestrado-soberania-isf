@@ -62,7 +62,7 @@ A pesquisa apoia-se exclusivamente em inventários periciais e relatórios de in
 Capacidade Bélica e Aviação: International Institute for Strategic Studies (IISS — The Military Balance, edições 2022 a 2026);
 Despesas Militares Globais e Forças Estratégicas: Stockholm International Peace Research Institute (SIPRI — Military Expenditure Database 1949–2025, World Nuclear Forces e Arms Transfers Database). A base primária bruta oficial (SIPRI-Milex-data-1949-2025_v1.2.xlsx) e a matriz estruturada da amostra (amostra_18_paises_isf.csv) encontram-se depositadas na pasta dados/ para fins de Ciência Aberta (Open Science);
 Ciclo de Combustível e Enriquecimento (): Agência Internacional de Energia Atômica (AIEA — Safeguards Implementation Reports, 2024);
-Inovação Tecnológica Civil de Uso Dual: World Intellectual Property Organization (WIPO/OMPI — IP Statistics Data Center, depósitos via Tratado PCT, 2024);
+Inovação Tecnológica Civil de Uso Dual:** World Intellectual Property Organization (WIPO/OMPI — [IP Statistics Data Center](https://www.wipo.int/en/web/ip-statistics), depósitos internacionais via Tratado PCT e relatório *World Intellectual Property Indicators*, 2024) ;
 Execução Orçamentária Federal: Sistema Integrado de Planejamento e Orçamento (SIOP/MPO — Série Histórica 2012–2025 das Ações 14T5/SISFRON e 20ZF/GLO).
 5. Como Citar
 Referência Bibliográfica (ABNT NBR 6023:2018)
