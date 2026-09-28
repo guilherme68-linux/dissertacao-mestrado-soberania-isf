@@ -32,15 +32,15 @@ O arcabouço computacional operacionaliza a mensuração da soberania em termos 
 
 ```text
 ├── data/
-│   ├── amostra_18_paises_isf.csv              # Matriz com indicadores SIPRI, IISS, AIEA e WIPO
+│   ├── amostra_18_paises_isf.csv                # Matriz com indicadores SIPRI, IISS, AIEA e WIPO
 │   └── siop_orcamento_sisfron_glo_2012_2025.csv # Série histórica orçamentária do SIOP
 ├── apendices/
-│   ├── Apendice_A_Memoria_de_Calculo_ISF.pdf  # Dedução matemática detalhada e justificativa pericial
-│   ├── Apendice_B_Pipeline_KMeans_Python.pdf  # Documentação do particionamento não supervisionado
-│   └── Apendice_C_Matriz_Contabil_SISFRON.pdf # Demonstração contábil do hiato financeiro
+│   ├── Apendice_A_Memoria_de_Calculo_ISF.pdf    # Dedução matemática detalhada e justificativa pericial
+│   ├── Apendice_B_Pipeline_KMeans_Python.pdf    # Documentação do particionamento não supervisionado
+│   └── Apendice_C_Matriz_Contabil_SISFRON.pdf   # Demonstração contábil do hiato financeiro
 ├── scripts/
-│   ├── script_01_ahp_perron_frobenius.py      # Resolução dos autovetores dominantes e teste CR = 0,0000
-│   ├── script_02_kmeans_clusterizacao.py      # Normalização StandardScaler, K-Means (k=4) e plotagem
-│   ├── grafico_sisfron_planejado_vs_pago.py   # Auditoria do hiato orçamentário (Ação 14T5 do SIOP)
+│   ├── script_01_ahp_perron_frobenius.py        # Resolução dos autovetores dominantes e teste CR = 0,0000
+│   ├── script_02_kmeans_clusterizacao.py        # Normalização StandardScaler, K-Means (k=4) e plotagem
+│   ├── grafico_sisfron_planejado_vs_pago.py     # Auditoria do hiato orçamentário (Ação 14T5 do SIOP)
 │   └── grafico_escolhas_tragicas_glo_sisfron.py # Custo de oportunidade pericial (GLO vs. SISFRON)
 └── README.md
